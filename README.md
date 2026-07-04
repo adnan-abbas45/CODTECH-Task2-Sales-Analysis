@@ -1,9 +1,8 @@
 # CODTECH IT Solutions - Task 2: Sales Data Analysis & Dashboarding
 
 **Name:** Adnan Abbas  
-**Intern ID:** [Insert Your ID Here]  
-**Domain:** Data Analytics  
-**Duration:** 5 Weeks  
+**Intern ID:** CITS2470 
+**Domain:** Data Analytics   
 
 ## Project Overview
 This project focuses on analyzing sales data to extract actionable business insights and visualize key performance indicators (KPIs). Inspired by professional business requirements, this project involves querying raw sales data, cleaning and transforming it, and developing an interactive dashboard to compare actual sales performance against allocated budgets over time. 

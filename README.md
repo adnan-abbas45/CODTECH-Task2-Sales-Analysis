@@ -1,4 +1,4 @@
-# CODTECH IT Solutions - Task 2: Sales Data Analysis & Dashboarding
+# CODTECH IT Solutions -  Task 2: Sales Data Analysis & Dashboarding
 
 **Name:** Adnan Abbas  
 **Intern ID:** CITS2470 
